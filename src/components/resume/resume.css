@@ -1,0 +1,31 @@
+.tab{
+    padding: 30px 0;
+}
+
+.buttons_tab {
+    padding: 40px 0;
+    
+}   
+
+.list_work{
+    display: list-item;
+    text-align: left;
+    list-style-type: disc;
+    margin: 0px 30px;
+    font-size: 20px;
+}
+
+
+h1{
+    font-size: 40px;
+    padding: 0;
+}
+
+p{
+    padding: 0 0 20px 0;
+    font-size: 20px;
+}
+
+.sub_caption{
+    text-align: left;
+}

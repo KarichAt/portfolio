@@ -4,7 +4,7 @@ export default function Navigation() {
     return (
     <section className='navigation'>
         <span>Ilyushonok Karina</span>
-        <ul>
+        <ul className='links'>
             <li>
                 <a href="#">About me</a>
             </li>
