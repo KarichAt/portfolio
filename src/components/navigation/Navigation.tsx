@@ -3,16 +3,16 @@ import '../navigation/Navigation.css'
 export default function Navigation() {
     return (
     <section className='navigation'>
-        <span>Ilyushonok Karina</span>
+        <span className='logo'>Ilyushonok Karina</span>
         <ul className='links'>
             <li>
                 <a href="#">About me</a>
             </li>
             <li>
-                <a href="#">Showcase</a>
+                <a href="#portfolio">Showcase</a>
             </li>
             <li>
-                <a href="#">Resume</a>
+                <a href="#resume">Resume</a>
             </li>
             <li>
                 <a href="#">Contact</a>

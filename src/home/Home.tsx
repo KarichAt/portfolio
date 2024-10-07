@@ -1,6 +1,10 @@
+import Contact from '../components/contact/contact'
+import EmailForm from '../components/contact/test/emailform'
+import Footer from '../components/footer/footer'
 import Navigation from '../components/navigation/Navigation'
 import Portfolio from '../components/portfolio/portfolio'
 import Resume from '../components/resume/resume'
+
 import './Home.scss'
 
 export default function Home() {
@@ -12,6 +16,7 @@ export default function Home() {
         <Navigation />
         <Resume />
         <Portfolio />
+        <Footer/>
       </div>
     </>
   )

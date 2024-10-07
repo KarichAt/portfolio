@@ -1,0 +1,25 @@
+.textbox{
+    background-color: #22000066;
+    border: 3px solid #5a000035;
+    color: white;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 10px;
+}
+
+.email{
+    height: 300px;
+    width: 500px;
+    content: "email";
+}
+
+.sub{
+    font-size: 25px;
+    padding: 10px 100px;
+    width: 60px;
+}
+
+.inputbox{
+    width: 400px;
+    margin-bottom: 20px;
+}
