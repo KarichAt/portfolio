@@ -2,7 +2,10 @@ h1{
     padding: 10px;
 }
 
-
+.prew_text {
+    padding: 6px;
+    font-size: 32px;
+}
 
 .portfolio{
     padding: 20px 0;
@@ -33,4 +36,10 @@ h1{
     position: relative;
     z-index: 1;
     transition-duration: 0.4s;
+}
+.cell_text{
+    height: 260px;
+    padding: 0px 0px 20px 0px;
+    border: 1px solid white;
+    position: relative;
 }
