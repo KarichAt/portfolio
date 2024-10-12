@@ -3,7 +3,7 @@ import '../portfolio/portfolio.css'
 export default function portfolio(){
     return(
         <>
-           <section className='portfolio'>
+           <section className='portfolio'  id='showcase'>
                 <h2 className="caption">Samples of project througout the experience</h2>
                 <div className="grid">
                     <div className="cell">

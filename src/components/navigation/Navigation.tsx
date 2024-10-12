@@ -5,16 +5,16 @@ export default function Navigation() {
     <section className='navigation'>
         <span>Ilyushonok Karina</span>
         <ul className='links'>
-            <li>
+            <li className='hide'>
                 <a href="#">About me</a>
             </li>
             <li>
-                <a href="#">Showcase</a>
+                <a href="#showcase">Showcase</a>
             </li>
             <li>
-                <a href="#">Resume</a>
+                <a href="#resume">Resume</a>
             </li>
-            <li>
+            <li className='hide'>
                 <a href="#">Contact</a>
             </li>
         </ul>

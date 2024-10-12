@@ -1,3 +1,4 @@
+import Footer from '../components/footer/footer'
 import Navigation from '../components/navigation/Navigation'
 import Portfolio from '../components/portfolio/portfolio'
 import Resume from '../components/resume/resume'
@@ -12,6 +13,7 @@ export default function Home() {
         <Navigation />
         <Resume />
         <Portfolio />
+        <Footer/>
       </div>
     </>
   )

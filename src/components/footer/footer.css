@@ -5,7 +5,7 @@
 .mess{
     font-size: 20px;
     display: flex;
-    color: rgb(79, 0, 0);
+    color: #180e1c;
     line-height: 1rem;
     justify-content: end;
 }

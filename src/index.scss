@@ -2,8 +2,15 @@
     font-family: "Pirata One", system-ui;
     font-weight: 300;
     font-style: normal;
-  background-image: linear-gradient(#180e1c, #2e0404);
+background-image: linear-gradient(#180e1c, #09050b);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
   color: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 a {

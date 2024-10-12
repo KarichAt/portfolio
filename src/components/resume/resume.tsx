@@ -3,7 +3,7 @@ import '../resume/resume.css'
 export default function Resume(){
     return (
         <>
-        <section className='tab'> 
+        <section className='tab' id='resume'> 
             <h2 className="caption">Resume</h2>
             <div className="buttons_tab">
                 <ul>
