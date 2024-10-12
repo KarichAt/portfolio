@@ -1,0 +1,11 @@
+.footer{
+    padding: 10px 20px;
+}
+
+.mess{
+    font-size: 20px;
+    display: flex;
+    color: rgb(79, 0, 0);
+    line-height: 1rem;
+    justify-content: end;
+}
