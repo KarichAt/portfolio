@@ -17,31 +17,18 @@ export default function portfolio(){
                     <a href="https://Karichat.github.io/CarsDilerShip"><div className="preview" style ={{backgroundImage: `url("cardilership.png")`}}></div></a>
                     <h1>CarDilerShip</h1>
                     </div>
-                    <div className="cell_text">
-                    <h1  className='prew_text'>Змейка</h1>
-                    </div>
-                    <div className="cell">
-                    <a href="http://KarichAt.github.io/zmeyka"><div className="preview"></div></a>
-                    <h1>Змейка</h1>
-                    </div>
 
                     <div className="cell_text">
-                    <h1>Змейка</h1>
+                    <h1  className='prew_text'>I'm always looking for ways to develop my skills</h1>
                     </div>
                     <div className="cell">
                     <a href="https://Karichat.github.io/Spectra"><div className="preview" style ={{backgroundImage: `url("spectra.png")`}}></div></a>
                     <h1>Spectra</h1>
                     </div>
                     <div className="cell_text">
-                    <h1>Змейка</h1>
+                    <h1  className='prew_text'>Not all of my skills are displayed here, so the portfolio will be updated with new projects</h1>
                     </div>
-                    <div className="cell">
-                    <a href="http://KarichAt.github.io/zmeyka"><div className="preview"></div></a>
-                    <h1>Змейка</h1>
-                    </div>
-                    <div className="cell_text">
-                    <h1>Змейка</h1>
-                    </div>
+            
                 </div>
             </section> 
         </>
